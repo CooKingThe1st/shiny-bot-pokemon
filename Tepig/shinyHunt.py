@@ -133,7 +133,7 @@ if __name__ == "__main__":
         time.sleep(0.1)
         if(isShiny()):
             #Code when shiny pokemon is encountered	
-            # save()
+            save()
             #hard_save()
             print("Shiny pokemon encountered after ",c+1,"encounters")
             #time.sleep(100)
